@@ -36,6 +36,7 @@ A curated list of awesome computing/programming resources.
 * [Operating Systems](#operating-systems)
 * [People](#people)
 * [Programming](#programming)
+* [QEMU](#qemu)
 * [Repositories](#repositories)
 * [Research papers](#research-papers)
 * [Rust](#rust)
@@ -76,6 +77,7 @@ A curated list of awesome computing/programming resources.
 * [SystemsApproach book][138] - Computer Networks: A Systems Approach
 
 ## Bootloaders
+* [Ventoy][290] - Tool to boot multiple ISO images from a single USB key
 * [POSIX-UEFI][142] - Dependency-free POSIX compatibility layer and build environment for UEFI
 * [The rEFInd Boot Manager][15] - A boot manager for computers based on EFI and Unified EFI (UEFI).
 * [bootboot][86] - BOOTBOOT has the opposite philosophy than GRUB: a set of simple and small loaders which provide the same boot environment for your kernel on different 64-bits platforms.
@@ -171,7 +173,6 @@ A curated list of awesome computing/programming resources.
 * [NuttX][233] - Apache NuttX is a highly scalable RTOS featuring small footprint and standards compliance (UNIX, POSIX, ANSI).
 
 ## Emulation
-* [advanced qemu][221] - Advanced configuration for QEMU
 * [DOSBox-X][225] - Open-source DOS/Win3.x/Win9x emulator for running DOS/windows applications and games. It is much more flexible and provides more features than DOSBox.
 * [dosbox-x options][226] - DOSBox-X's Command-Line Options
 
@@ -312,6 +313,11 @@ A curated list of awesome computing/programming resources.
 * [Benchmarks Game][124] Compare the performance of many languages across many tests
 * [ncurses howto][215] - NCURSES Programming HOWTO
 * [wizard zines][253] - Programming zines by Julia Evans
+
+## QEMU
+* [QEMU archlinux doc][291] - QEMU documentation and advancded configuration on Archlinux
+* [QEMU Guest graphics acceleration][292] - QEMU guest graphics accelartion on Archlinux
+* [advanced qemu][221] - Advanced configuration for QEMU
 
 ## Repositories
 * [sourcehut][244] - SourceHut is a 100% open source, not owned by company, git forge.
@@ -707,3 +713,6 @@ A curated list of awesome computing/programming resources.
 [287]: https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html
 [288]: https://ariadne.space/
 [289]: https://github.com/ozkl/doomgeneric
+[290]: https://www.ventoy.net/
+[291]: https://wiki.archlinux.org/title/QEMU
+[292]: https://wiki.archlinux.org/title/QEMU/Guest_graphics_acceleration
